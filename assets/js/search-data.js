@@ -50,7 +50,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-enhancing-the-black-scholes-with-dl-based-sentiment-analysis",
           title: 'Enhancing the Black Scholes with DL-based Sentiment Analysis',
-          description: "a project that redirects to another website",
+          description: "BRUH WHAT AM I DOING WITH MY LIFE",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{
