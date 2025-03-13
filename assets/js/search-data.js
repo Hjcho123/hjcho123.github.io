@@ -38,7 +38,22 @@ ninja.data = [{
             },},{id: "news-hi-i-just-finished-building-the-basic-framework-of-this-website-today-hoping-to-build-this-site-into-something-great",
           title: 'Hi! I just finished building the basic framework of this website today! Hoping...',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-deep-learning-2d-and-3d-gradient-descent",
+          title: 'Deep Learning: 2D and 3D Gradient Descent',
+          description: "Developing a gradient descent model using Deep Learning",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project/";
+            },},{id: "projects-fractal-tree-generation-in-python",
+          title: 'Fractal Tree Generation in Python',
+          description: "Methods and strategies I used for this simple Fractal Tree program I wrote in Python",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
+            },},{id: "projects-enhancing-the-black-scholes-with-dl-based-sentiment-analysis",
+          title: 'Enhancing the Black Scholes with DL-based Sentiment Analysis',
+          description: "a project that redirects to another website",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
