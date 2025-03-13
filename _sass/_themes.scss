@@ -80,15 +80,15 @@ html[data-theme="dark"] {
   --global-code-bg-color: #271f1a;
   --global-text-color: #f6efe9;
   --global-text-color-light: #f6efe9;
-  --global-theme-color: #f59677;
-  --global-hover-color: #f59677;
+  --global-theme-color: #df896c;
+  --global-hover-color: #df896c;
   --global-hover-text-color: #{$white-color};
   --global-footer-bg-color: #fbf6f2;
   --global-footer-text-color: #282f3b;
   --global-footer-link-color: #282f3b;
   --global-distill-app-color: #{$grey-color-light};
   --global-divider-color: #f6efe97d;
-  --global-card-bg-color: #494d55;
+  --global-card-bg-color: #383b42;
   --global-back-to-top-bg-color: rgba(
     #{color.channel($white-color, "red", $space: rgb)},
     #{color.channel($white-color, "green", $space: rgb)},

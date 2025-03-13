@@ -86,7 +86,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Blog # blog_name will be displayed in your blog page
-blog_description: My thoughts related to things im interested in!
+blog_description: "Hear about my thoughts and interests!"
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
