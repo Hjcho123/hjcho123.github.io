@@ -17,7 +17,7 @@
   --global-footer-link-color: #{$white-color};
   --global-distill-app-color: #{$grey-color};
   --global-divider-color: rgba(0, 0, 0, 0.1);
-  --global-card-bg-color: #ffffff;
+  --global-card-bg-color: #fffefc;
   --global-highlight-color: #{$red-color-dark};
   --global-back-to-top-bg-color: rgba(
     #{color.channel($black-color, "red", $space: rgb)},
@@ -83,12 +83,12 @@ html[data-theme="dark"] {
   --global-theme-color: #df896c;
   --global-hover-color: #df896c;
   --global-hover-text-color: #{$white-color};
-  --global-footer-bg-color: #fbf6f2;
-  --global-footer-text-color: #282f3b;
-  --global-footer-link-color: #282f3b;
+  --global-footer-bg-color: #000000;
+  --global-footer-text-color: #f6efe9;
+  --global-footer-link-color: #f6efe9;
   --global-distill-app-color: #{$grey-color-light};
   --global-divider-color: #f6efe97d;
-  --global-card-bg-color: #383b42;
+  --global-card-bg-color: #373738;
   --global-back-to-top-bg-color: rgba(
     #{color.channel($white-color, "red", $space: rgb)},
     #{color.channel($white-color, "green", $space: rgb)},
