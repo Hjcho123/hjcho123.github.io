@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: Enhancing the Black Scholes with DL-based Sentiment Analysis
-description: a project that redirects to another website
+description: BRUH WHAT AM I DOING WITH MY LIFE
 img: assets/img/graph.png
 
 importance: 3
@@ -24,18 +24,11 @@ tikzjax: true
 typograms: true
 
 authors:
-  - name: Albert Einstein
-    url: "https://en.wikipedia.org/wiki/Albert_Einstein"
+  - name: Heejae Cho
+    url: "https://www.linkedin.com/in/hee-jae-cho-39377a323/"
     affiliations:
-      name: IAS, Princeton
-  - name: Boris Podolsky
-    url: "https://en.wikipedia.org/wiki/Boris_Podolsky"
-    affiliations:
-      name: IAS, Princeton
-  - name: Nathan Rosen
-    url: "https://en.wikipedia.org/wiki/Nathan_Rosen"
-    affiliations:
-      name: IAS, Princeton
+      name: HKUST
+ 
 
 bibliography: 2018-12-22-distill.bib
 ---
