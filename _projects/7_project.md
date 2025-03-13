@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
+title: DL-Enhanced Black Scholes pricing model
+description: Developing a Deep Learning model to enhance the Black-Scholes option pricing equation.
+img: assets/img/graph.png
 importance: 1
-category: work
+category: Quant
 related_publications: true
 ---
 

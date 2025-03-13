@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: This portion of the website is a showcase of all of my personal projects. Feel free to look through each of them, and ask questions about them by reaching out. Enjoy!
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 1
+display_categories: [Quant, Data Science & Analysis, Deep Learning and AI, Misc.]
 horizontal: false
 ---
 

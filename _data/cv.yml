@@ -2,28 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Hee Jae Cho
     - name: Date of Birth
-      value: 14th March 1879
+      value: 23rd January 2006
     - name: Languages
-      value: English, German
+      value: English(Native), Korean(Native), Filipino(Professional), Mandarin (Elementary)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: BSc
+      institution: Hong Kong University of Science and Technology
+      year: 2024-
       description:
         - Description 1.
         - Description 2.

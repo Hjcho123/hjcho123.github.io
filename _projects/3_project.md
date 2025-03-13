@@ -1,11 +1,43 @@
 ---
-layout: page
-title: project 3 with very long name
+layout: distill
+title: Enhancing the Black Scholes with DL-based Sentiment Analysis
 description: a project that redirects to another website
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+
 importance: 3
-category: work
+category: Quant
+
+
+giscus_comments: true
+date: 2021-05-22
+featured: true
+mermaid:
+  enabled: true
+  zoomable: true
+code_diff: true
+map: true
+chart:
+  chartjs: true
+  echarts: true
+  vega_lite: true
+tikzjax: true
+typograms: true
+
+authors:
+  - name: Albert Einstein
+    url: "https://en.wikipedia.org/wiki/Albert_Einstein"
+    affiliations:
+      name: IAS, Princeton
+  - name: Boris Podolsky
+    url: "https://en.wikipedia.org/wiki/Boris_Podolsky"
+    affiliations:
+      name: IAS, Princeton
+  - name: Nathan Rosen
+    url: "https://en.wikipedia.org/wiki/Nathan_Rosen"
+    affiliations:
+      name: IAS, Princeton
+
+bibliography: 2018-12-22-distill.bib
 ---
 
 Every project has a beautiful feature showcase page.
