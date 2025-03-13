@@ -4,7 +4,7 @@ title: "Deep Learning: 2D and 3D Gradient Descent"
 description: Developing a gradient descent model using Deep Learning
 img: assets/img/gradient.png
 importance: 1
-category: Deep Learning and AI
+category: 2025
 related_publications: true
 ---
 

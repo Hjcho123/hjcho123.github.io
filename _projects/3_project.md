@@ -5,7 +5,7 @@ description: a project that redirects to another website
 img: assets/img/graph.png
 
 importance: 3
-category: Quant
+category: 2025
 
 
 giscus_comments: true

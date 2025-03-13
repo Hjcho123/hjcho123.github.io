@@ -5,7 +5,7 @@ permalink: /projects/
 description: This portion of the website is a showcase of all of my personal projects. Feel free to look through each of them, and ask questions about them by reaching out. Enjoy!
 nav: true
 nav_order: 1
-display_categories: [Deep Learning and AI, Data Science, Quant, Misc.]
+display_categories: [2025]
 horizontal: false
 ---
 

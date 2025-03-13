@@ -4,7 +4,7 @@ title: Fractal Tree Generation in Python
 description: Methods and strategies I used for this simple Fractal Tree program I wrote in Python
 img: assets/img/3.jpg.png
 importance: 2
-category: Misc.
+category: 2025
 giscus_comments: true
 ---
 
