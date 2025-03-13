@@ -30,7 +30,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "books-the-godfather",
+        },{id: "post-how-to-understand-black-scholes-explained-by-a-first-year-math-student",
+      
+        title: "How to understand Black-Scholes: Explained by a first year math student",
+      
+      description: "an example of a distill-style blog post and main elements",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2021/distill/";
+        
+      },
+    },{id: "post-a-post-with-disqus-comments",
+      
+        title: "a post with disqus comments",
+      
+      description: "an example of a blog post with disqus comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2015/disqus-comments/";
+        
+      },
+    },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
