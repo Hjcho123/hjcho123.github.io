@@ -30,15 +30,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-post-with-pseudo-code",
+        },{id: "post-how-to-understand-black-scholes-explained-by-a-first-year-math-student",
       
-        title: "a post with pseudo code",
+        title: "How to understand Black-Scholes: Explained by a first year math student",
       
-      description: "this is what included pseudo code could look like",
+      description: "an example of a distill-style blog post and main elements",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/pseudocode/";
+          window.location.href = "/blog/2021/distill/";
         
       },
     },{id: "post-a-post-with-disqus-comments",
@@ -60,11 +60,21 @@ ninja.data = [{
             },},{id: "news-hi-i-just-finished-building-the-basic-framework-of-this-website-today-hoping-to-build-this-site-into-something-great",
           title: 'Hi! I just finished building the basic framework of this website today! Hoping...',
           description: "",
-          section: "News",},{id: "projects-fractal-tree-generation-in-python",
+          section: "News",},{id: "projects-deep-learning-2d-and-3d-gradient-descent",
+          title: 'Deep Learning: 2D and 3D Gradient Descent',
+          description: "Developing a gradient descent model using Deep Learning",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project/";
+            },},{id: "projects-fractal-tree-generation-in-python",
           title: 'Fractal Tree Generation in Python',
           description: "Methods and strategies I used for this simple Fractal Tree program I wrote in Python",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-enhancing-the-black-scholes-with-dl-based-sentiment-analysis",
+          title: 'Enhancing the Black Scholes with DL-based Sentiment Analysis',
+          description: "BRUH WHAT AM I DOING WITH MY LIFE",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
             },},{
         id: 'social-email',
         title: 'email',
