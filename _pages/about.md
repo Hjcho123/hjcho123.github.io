@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: cafe.jpg
+  image: subway.png
   image_circular: false # crops the image to make it circular
   
    
@@ -24,12 +24,10 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hi everyone! My name is Heejae (조희재/曹僖材), a Year 1 student at the [Hong Kong University of Science and Technology](https://www.linkedin.com/school/hkust/posts/?feedView=all). 
+Hi everyone! My name is Heejae (조희재/曹僖材), a 2nd year student at the [Hong Kong University of Science and Technology](https://www.linkedin.com/school/hkust/posts/?feedView=all), currently studying towards a BSc in Mathematics, with a focus on Computer Science and Artificial Intelligence applications.
 
+I spend my free time towards building projects that enhance my skills and understanding of several fundamental topics in Mathematics, Data Science, Deep Learning, and Quantitative Trading.
 
-
-I often spend my free time towards building projects that enhance my skills and understanding of several fundamental topics in Mathematics, Data Science, Deep Learning, and Quantitative Trading. Additionally, I am currently working towards earning my first AWS certification this year. 
-
-Outside of this, I enjoy several hobbies like jogging, hiking, reading books, and artistic illustration!
+Outside of this, I enjoy several hobbies like jogging, hiking, reading books, and visual art!
 
 Feel free to explore this website, and to contact me through the links below! Thanks!

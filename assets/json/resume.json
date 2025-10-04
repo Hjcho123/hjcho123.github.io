@@ -24,6 +24,27 @@
   },
   "work": [
     {
+      "name": "Google Developer Student Club @ HKUST",
+      "position": "Software Developer",
+      "url": "",
+      "startDate": "2025",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": ["Just started...so nothing yet."]
+    },
+
+    {
+      "name": "HKUST IT Office",
+      "position": "Information Technology Intern, ",
+      "url": "",
+      "startDate": "2025",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": ["Managed and oversaw the use of IT equipment in the 3 computer laboratories in HKUST","Assisted students and staff in troubleshooting IT problems involving computers, printers, ID cards, and others","Dedicated at least 7 hours of part-time work per week in managing HKUST computer laboratories"]
+    },
+    
+
+    {
       "name": "Ateneo De Manila Senior High School",
       "position": "Lead Researcher of COVID-19 Spatio-temporal Analysis Research ",
       "url": "",
@@ -59,13 +80,12 @@
       "institution": "Hong Kong University of Science and Technology",
       "location": "Hong Kong SAR",
       "url": "https://hkust.edu.hk/",
-      "area": "School of Science",
-      "studyType": "Bachelors of Science",
+      "area": "Mathematics (CS track) and Artificial Intelligence",
+      "studyType": "BSc",
       "startDate": "2024",
       "endDate": "2028",
-      "score": "3.6(3.96†)/4.3 (†GPA of latest semester",
-      
-      "courses": ""
+      "-score": "3.6(3.96†)/4.3 (†GPA of latest semester)",
+      "courses": ["Discrete Mathematics", "Calculus I&II", "C++", "Python","Introduction to Artificial Intelligence"]
     }
   ],
   "-awards": [
